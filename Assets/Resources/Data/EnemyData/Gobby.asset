@@ -13,10 +13,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   emname: Gobby
   health: 51
-  atk: 38
-  def: 60
-  agi: 27
-  atkTime: 2.3
+  atk: 20
+  def: 30
+  agi: 10
+  atkTime: 5
   isMagic: 0
   manaPool: 0
   mySprite: {fileID: 21300000, guid: 2d8a87436a2637c498a0a38aa1ab5586, type: 3}

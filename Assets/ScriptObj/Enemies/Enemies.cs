@@ -5,7 +5,7 @@ public class Enemies : ScriptableObject {
 
 
 	public string emname;
-	public int health, atk,def,agi;
+	public int health, atk, def, agi;
     public float atkTime;
     public bool isMagic;
     public int manaPool;

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d138a345c8a85d4cbf573b9d5f3dc80, type: 3}
+  m_Name: Joe
+  m_EditorClassIdentifier: 
+  emname: Joe
+  health: 211
+  atk: 30
+  def: 28
+  agi: 25
+  atkTime: 5.66
+  isMagic: 1
+  manaPool: 6
+  mySprite: {fileID: 21300000, guid: 8fc1d2f8edd568d48b11ced58e91dcf9, type: 3}
